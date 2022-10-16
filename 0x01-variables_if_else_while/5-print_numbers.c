@@ -2,18 +2,18 @@
 
 /**
  * main - print the alphabet both lower and upper
+ * followed by a new line, except q and e
  * return Always 0
  */
+
 int main(void)
 {
-	char lc;
+	int num;
 
-	for (lc = 'a'; lc <= 'z'; lc++)
-		putchar(lc);
+	for (num = 0; num < 10; num++)
+		printf("%d", num);
 
-	for (lc = 'A'; lc <= 'Z'; lc++)
-		putchar(lc);
-	putchar('\n');
+	printf("\n");
 
 	return (0);
 }
