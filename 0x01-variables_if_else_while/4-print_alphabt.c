@@ -3,7 +3,7 @@
 /**
  * main - print the alphabet both lower and upper
  * followed by a new line, except q and e
- * return Always 0
+ * Return: Always 0
  */
 
 int main(void)

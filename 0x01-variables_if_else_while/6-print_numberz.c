@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - print single digit in base 10
- * return Always 0
+ * Return: Always 0
  */
 int main(void)
 {

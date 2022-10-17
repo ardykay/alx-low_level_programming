@@ -2,7 +2,7 @@
 
 /**
  *  * main - print the alphabet in reverse
- * return Always 0
+ * Return: Always 0
  */
 
 /* betty style doc for function main goes there */

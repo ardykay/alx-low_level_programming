@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - print the alphabet both lower and upper
- * followed by a new line, except q and e
- * return Always 0
+ * main - Entry point
+ * Return: Always 0
  */
-
 int main(void)
 {
 	int num;
