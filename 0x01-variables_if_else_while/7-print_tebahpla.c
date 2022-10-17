@@ -11,7 +11,7 @@ int main(void)     /* betty style doc for function main goes there */
 	char lc;
 
 	/* your code goes there */
-	for (lc = 'z'; lc >= 'z'; lc--)
+	for (lc = 'z'; lc >= 'a'; lc--)
 		putchar(lc);
 
 	putchar('\n');
